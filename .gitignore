@@ -1,0 +1,6 @@
+*.vscode
+*dist-newstyle
+*split-0.2.4
+*part1.txt
+*part2.txt
+*CHANGELOG.md
